@@ -1,6 +1,6 @@
-<h1 align="center">Wink :sparkles:<br /><a href="https://AmreshSinha.vercel.app" target="_blank">AmreshSinha</a></h1>
+<h1 align="center">Wink :sparkles:<br /><a href="https://AmreshSinha.vercel.app" target="_blank">Tytan Codes</a></h1>
 
-![AmreshSinha](./AmreshSinha.png)
+
 
 ## Notes :heavy_exclamation_mark:
 
