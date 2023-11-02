@@ -6,7 +6,7 @@ import { a } from "@react-spring/web"
 export default function DesktopNav({ style }) {
     return (
         <NavWrapper style={style}>
-            <Link to="/" style={{textDecoration: 'none', color: 'black'}}><Logo />t</Link>
+            <Link to="/" style={{textDecoration: 'none', color: 'black'}}><Logo /></Link>
             <Links>
                 <NavLink to="/" id="home"><span>01.</span> Home</NavLink>
                 <NavLink to="/works" id="works"><span>02.</span> Works</NavLink>
