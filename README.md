@@ -1,4 +1,4 @@
-<h1 align="center">Wink :sparkles:<br /><a href="https://AmreshSinha.vercel.app" target="_blank">Tytan COdes</a></h1>
+<h1 align="center">Wink :sparkles:<br /><a href="https://AmreshSinha.vercel.app" target="_blank">Tytan Codes</a></h1>
 
 ![AmreshSinha](./AmreshSinha.png)
 
