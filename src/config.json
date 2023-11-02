@@ -29,6 +29,16 @@
         "category": "Finished Development",
         "year": 2023,
         "industry": "Personal Project"
+    },
+    {
+        "id": "htmlcomp",
+        "title": "HTML Components",
+        "description": "This turn normal html into something like nuxt, you only have one footer on 8 pages, you chnage 1 js files and they all chnage",
+        "image": "https://i.imgur.com/bLxcjh3.png",
+        "link": "https://github.com/tytan-codes/html-components",
+        "category": "Finished Development",
+        "year": 2023,
+        "industry": "Personal Project"
     }
     
 ]
