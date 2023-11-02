@@ -115,7 +115,7 @@ export default function Me() {
 
                 <ScrollPage>
                     <Animator animation={batch(StickyIn(), FadeIn(), ZoomIn())}>
-                        <Text2>I am Amresh.</Text2>
+                        <Text2>I am Tytan.</Text2>
                     </Animator>
                 </ScrollPage>
 
