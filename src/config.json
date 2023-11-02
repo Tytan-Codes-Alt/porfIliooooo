@@ -1,0 +1,34 @@
+[
+    {
+        "id": "betterday5",
+        "title": "Better Day 5",
+        "description": "A bunch of my idea in one project",
+        "image": "https://i.imgur.com/RkkW1zn.jpeg",
+        "link": "https://github.com/tytan-codes/better-day-5",
+        "category": "In Development",
+        "year": 2023,
+        "industry": "Personal Project"
+    },
+    {
+        "id": "simpleVPN",
+        "title": "simpleVPN",
+        "description": "Look at it and see!",
+        "image": "https://i.imgur.com/pVx5OUH.jpeg",
+        "link": "https://github.com/tytan-codes/simplevpn",
+        "category": "Finished Development",
+        "year": 2023,
+        "industry": "Personal Project"
+
+    },
+    {
+        "id": "chatgpt",
+        "title": "chatGPT",
+        "description": "MORE TO COME",
+        "image": "https://i.imgur.com/pGpPALT.png",
+        "link": "https://github.com/tytan-codes/xhatgpt",
+        "category": "Finished Development",
+        "year": 2023,
+        "industry": "Personal Project"
+    }
+    
+]
