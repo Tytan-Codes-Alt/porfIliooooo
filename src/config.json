@@ -12,7 +12,7 @@
     {
         "id": "simpleVPN",
         "title": "simpleVPN",
-        "description": "Look at it and see!",
+        "description": "Lets you use .ovpn files in a really simple way, PY YAML!",
         "image": "https://i.imgur.com/pVx5OUH.jpeg",
         "link": "https://github.com/tytan-codes/simplevpn",
         "category": "Finished Development",
@@ -23,9 +23,9 @@
     {
         "id": "chatgpt",
         "title": "chatGPT",
-        "description": "MORE TO COME",
+        "description": "Lets you chat with chatgpt through a CLI",
         "image": "https://i.imgur.com/pGpPALT.png",
-        "link": "https://github.com/tytan-codes/xhatgpt",
+        "link": "https://github.com/tytan-codes/chatgpt",
         "category": "Finished Development",
         "year": 2023,
         "industry": "Personal Project"
