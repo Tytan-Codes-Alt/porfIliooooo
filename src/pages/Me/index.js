@@ -209,7 +209,7 @@ export default function Me() {
 
                 <ScrollPage>
                     <Animator animation={batch(Sticky(), Fade())}>
-                        <Text2 style={{fontSize: '2rem'}}>I made my frist website that year.</Text2>
+                        <Text2 style={{fontSize: '2rem'}}>I made my first website that year.</Text2>
                     </Animator>
                 </ScrollPage>
 
