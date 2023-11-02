@@ -70,7 +70,7 @@ export default function Me() {
         <>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>About Amresh</title>
+                <title>About Tytan</title>
                 <link rel="canonical" href="/" />
                 <link rel="icon" href={favicon} />
                 <link rel="apple-touch-icon" sizes="180x180" href={appleIcon} />
