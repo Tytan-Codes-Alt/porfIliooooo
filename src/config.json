@@ -39,6 +39,16 @@
         "category": "Finished Development",
         "year": 2023,
         "industry": "Personal Project"
+    },
+    {
+        "id": "privacyBrowser",
+        "title": "Privacy Browser!",
+        "description": "This is a custom browser that i made that respects your privacy!",
+        "image": "https://i.imgur.com/bLxcjh3.png",
+        "link": "https://github.com/tytan-codes/privacy-browser",
+        "category": "Finished Development",
+        "year": 2022,
+        "industry": "Personal Project"
     }
     
 ]
