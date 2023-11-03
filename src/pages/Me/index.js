@@ -15,8 +15,8 @@ import SocialIcons from '../../components/SocialIcons';
 import meBg1 from '../../images/meBg1.jpg';
 import CloudsBG from '../../images/clouds-png-13378.png';
 import DockerBG from '../../images/ian-taylor-jOqJbvo1P9g-unsplash.jpg';
-// import RickRoll from '../../images/Rick-Roll.mp4';
-import RickRoll from '../../components/RickRoll';
+import RickRoll from '../../images/Rick-Roll.mp4';
+// import RickRoll from '../../components/RickRoll';
 import ErrorWindows from '../../components/ErrorWindows';
 
 function getWindowSize() {
@@ -79,13 +79,13 @@ export default function Me() {
                 <link rel="manifest" href={siteManifest} />
 
                 {/* Meta Info */}
-                <meta name="title" content="About Amresh" />
+                <meta name="title" content="About Tytan" />
                 <meta name="description" content="Tytan Codes's personal website" />
                 <meta name="keywords" content="Tytan Codes, Personal Website, Developer, Open Sourcer, Devops Engineer, Student" />
                 <meta name="author" content="Tytan Codes" />
 
                 {/* Open Graph */}
-                <meta property="og:title" content="About Amresh" />
+                <meta property="og:title" content="About Tytan" />
                 <meta property="og:description" content="Tytan Codes's personal website" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="/" />
@@ -98,7 +98,7 @@ export default function Me() {
 
                 {/* twitter meta */}
                 <meta name="twitter:card" content="summary" />
-                <meta name="twitter:title" content="About Amresh" />
+                <meta name="twitter:title" content="About Tytan" />
                 <meta name="twitter:description" content="Tytan Codes's personal website" />
                 <meta name="twitter:image" content="images/bgDesktop2.jpg" />
                 <meta name="twitter:image:alt" content="Tytan Codes's personal website" />
