@@ -278,7 +278,7 @@ export default function Me() {
 
                 <ScrollPage>
                     <Animator animation={batch(Fade(), Sticky(), Move())}>
-                        <Text2 style={{fontSize: '2rem'}}>Now i'm learning React.</Text2>
+                        <Text2 style={{fontSize: '2rem'}}>Now i'm learning thinking of what to learn.</Text2>
                     </Animator>
                 </ScrollPage>
 
@@ -288,9 +288,22 @@ export default function Me() {
 
                 <ScrollPage>
                     <Animator animation={batch(Fade(), StickyIn())}>
-                        <Text2 style={{fontSize: '2rem'}}>Thats what this website is coded in</Text2>
+                        <Text2 style={{fontSize: '2rem'}}>I actualy have no idea what to learn.</Text2>
                     </Animator>
                 </ScrollPage>
+
+                <ScrollPage>
+                    <Animator animation={batch(Fade(), StickyIn())}>
+                        <Text2 style={{fontSize: '2rem'}}>If you have any idea of what to learn PLEASE EMAIL ME.</Text2>
+                    </Animator>
+                </ScrollPage>
+
+                <ScrollPage>
+                    <Animator animation={batch(Fade(), StickyIn())}>
+                        <Text2 style={{fontSize: '2rem'}}>Hello@tytan.codes</Text2>
+                    </Animator>
+                </ScrollPage>
+
 
 
                 
