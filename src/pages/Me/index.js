@@ -70,7 +70,7 @@ export default function Me() {
         <>
             <Helmet>
                 <meta charSet="utf-8" />
-                <title>About Tytan</title>
+                <title>About Sirafiel</title>
                 <link rel="canonical" href="/" />
                 <link rel="icon" href={favicon} />
                 <link rel="apple-touch-icon" sizes="180x180" href={appleIcon} />
@@ -79,29 +79,29 @@ export default function Me() {
                 <link rel="manifest" href={siteManifest} />
 
                 {/* Meta Info */}
-                <meta name="title" content="About Tytan" />
-                <meta name="description" content="Tytan Codes's personal website" />
-                <meta name="keywords" content="Tytan Codes, Personal Website, Developer, Open Sourcer, Devops Engineer, Student" />
-                <meta name="author" content="Tytan Codes" />
+                <meta name="title" content="About Sirafiel" />
+                <meta name="description" content="Sirafiel Codes's personal website" />
+                <meta name="keywords" content="Sirafiel Codes, Personal Website, Developer, Open Sourcer, Devops Engineer, Student" />
+                <meta name="author" content="Sirafiel Codes" />
 
                 {/* Open Graph */}
-                <meta property="og:title" content="About Tytan" />
-                <meta property="og:description" content="Tytan Codes's personal website" />
+                <meta property="og:title" content="About Sirafiel" />
+                <meta property="og:description" content="Sirafiel Codes's personal website" />
                 <meta property="og:type" content="website" />
                 <meta property="og:url" content="/" />
                 <meta property="og:image" content="images/bgDesktop2.jpg" />
                 <meta property="og:image:width" content="1920" />
                 <meta property="og:image:height" content="1080" />
-                <meta property="og:image:alt" content="Tytan Codes's personal website" />
-                <meta property="og:site_name" content="Tytan Codes" />
+                <meta property="og:image:alt" content="Sirafiel Codes's personal website" />
+                <meta property="og:site_name" content="Sirafiel Codes" />
                 <meta property="og:locale" content="en_US" />
 
                 {/* twitter meta */}
                 <meta name="twitter:card" content="summary" />
-                <meta name="twitter:title" content="About Tytan" />
-                <meta name="twitter:description" content="Tytan Codes's personal website" />
+                <meta name="twitter:title" content="About Sirafiel" />
+                <meta name="twitter:description" content="Sirafiel Codes's personal website" />
                 <meta name="twitter:image" content="images/bgDesktop2.jpg" />
-                <meta name="twitter:image:alt" content="Tytan Codes's personal website" />
+                <meta name="twitter:image:alt" content="Sirafiel Codes's personal website" />
                 <meta name="twitter:site" content="@aps_codes" />
                 <meta name="twitter:creator" content="@aps_codes" />
             </Helmet>
@@ -115,7 +115,7 @@ export default function Me() {
 
                 <ScrollPage>
                     <Animator animation={batch(StickyIn(), FadeIn(), ZoomIn())}>
-                        <Text2>I am Tytan.</Text2>
+                        <Text2>I am Sirafiel.</Text2>
                     </Animator>
                 </ScrollPage>
 
@@ -151,7 +151,7 @@ export default function Me() {
                         <div style={{position: 'absolute', zIndex: -1, background: '#E7AB79', height: '100vh', width: '100vw'}}></div>
                     </Animator>
                     <Animator animation={batch(Sticky(), Fade(), MoveIn())}>
-                        <Text2 style={{color: '#4C3A51'}}>and a Student.</Text2>
+                        <Text2 style={{color: '#4C3A51'}}>and a Student!</Text2>
                     </Animator>
                 </ScrollPage>
 
@@ -163,7 +163,7 @@ export default function Me() {
                         <div style={{position: 'absolute', zIndex: -1, background: `url(${meBg1}) no-repeat 10% 20%`, filter: 'brightness(75%)', height: '100vh', width: '100vw'}}></div>
                     </Animator>
                     <Animator animation={batch(Sticky(), Fade(), MoveIn())}>
-                        <Text2 style={{fontSize: '5rem', color: '#F2D7D9', mixBlendMode: 'difference'}}>I love <span style={{textDecoration: 'none', background: 'linear-gradient(to right, #748DA6, #F2D7D9)', backgroundRepeat: 'repeat-x', backgroundSize: '100% 5px', backgroundPosition: '0 95%'}}>Trekking</span>, <span style={{textDecoration: 'none', background: 'linear-gradient(to right, #F37878, #D9F8C4)', backgroundRepeat: 'repeat-x', backgroundSize: '100% 5px', backgroundPosition: '0 95%'}}>Cycling</span> and <span style={{textDecoration: 'none', background: 'linear-gradient(to right, #DFF6FF, #1363DF)', backgroundRepeat: 'repeat-x', backgroundSize: '100% 5px', backgroundPosition: '0 95%'}}>Swimming</span>.</Text2>
+                        <Text2 style={{fontSize: '5rem', color: '#F2D7D9', mixBlendMode: 'difference'}}>I love <span style={{textDecoration: 'none', background: 'linear-gradient(to right, #748DA6, #F2D7D9)', backgroundRepeat: 'repeat-x', backgroundSize: '100% 5px', backgroundPosition: '0 95%'}}>Hacking</span>, <span style={{textDecoration: 'none', background: 'linear-gradient(to right, #F37878, #D9F8C4)', backgroundRepeat: 'repeat-x', backgroundSize: '100% 5px', backgroundPosition: '0 95%'}}>Breaking lots of shit</span> and <span style={{textDecoration: 'none', background: 'linear-gradient(to right, #DFF6FF, #1363DF)', backgroundRepeat: 'repeat-x', backgroundSize: '100% 5px', backgroundPosition: '0 95%'}}>Hoes</span>.</Text2>
                     </Animator>
                 </ScrollPage>
 
@@ -300,7 +300,7 @@ export default function Me() {
 
                 <ScrollPage>
                     <Animator animation={batch(Fade(), StickyIn())}>
-                        <Text2 style={{fontSize: '2rem'}}>Hello@tytan.codes</Text2>
+                        <Text2 style={{fontSize: '2rem'}}>Hello@Sirafiel.codes</Text2>
                     </Animator>
                 </ScrollPage>
 

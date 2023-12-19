@@ -163,7 +163,7 @@ export default function Home() {
         from: { opacity: 0, x: 20, height: 0 },
         to: { opacity: 1, x: 0, height: 110 },
     })
-    const descLine2List = "Tytan,".split(" ")
+    const descLine2List = "Sirafiel,".split(" ")
     const descLine3Anim = useSpring({
         ref: descLine3Ref,
         config: { mass: 5, tension: 2000, friction: 200 },
@@ -196,7 +196,7 @@ export default function Home() {
         <>
         <Helmet>
             <meta charSet="utf-8" />
-            <title>Tytan Codes</title>
+            <title>Sirafiel Codes</title>
             <link rel="canonical" href="/" />
             <link rel="icon" href={favicon} />
             <link rel="apple-touch-icon" sizes="180x180" href={appleIcon} />
@@ -205,29 +205,29 @@ export default function Home() {
             <link rel="manifest" href={siteManifest} />
 
             {/* Meta Info */}
-            <meta name="title" content="Tytan Codes" />
-            <meta name="description" content="Tytan Codes's personal website" />
-            <meta name="keywords" content="Tytan Codes, Personal Website, Developer, Open Sourcer, Devops Engineer, Student" />
-            <meta name="author" content="Tytan Codes" />
+            <meta name="title" content="Sirafiel Codes" />
+            <meta name="description" content="Sirafiel Codes's personal website" />
+            <meta name="keywords" content="Sirafiel Codes, Personal Website, Developer, Open Sourcer, Devops Engineer, Student" />
+            <meta name="author" content="Sirafiel Codes" />
 
             {/* Open Graph */}
-            <meta property="og:title" content="Tytan Codes" />
-            <meta property="og:description" content="Tytan Codes's personal website" />
+            <meta property="og:title" content="Sirafiel Codes" />
+            <meta property="og:description" content="Sirafiel Codes's personal website" />
             <meta property="og:type" content="website" />
             <meta property="og:url" content="/" />
             <meta property="og:image" content="images/bgDesktop2.jpg" />
             <meta property="og:image:width" content="1920" />
             <meta property="og:image:height" content="1080" />
-            <meta property="og:image:alt" content="Tytan Codes's personal website" />
-            <meta property="og:site_name" content="Tytan Codes" />
+            <meta property="og:image:alt" content="Sirafiel Codes's personal website" />
+            <meta property="og:site_name" content="Sirafiel Codes" />
             <meta property="og:locale" content="en_US" />
 
             {/* twitter meta */}
             <meta name="twitter:card" content="summary" />
-            <meta name="twitter:title" content="Tytan Codes" />
-            <meta name="twitter:description" content="Tytan Codes's personal website" />
+            <meta name="twitter:title" content="Sirafiel Codes" />
+            <meta name="twitter:description" content="Sirafiel Codes's personal website" />
             <meta name="twitter:image" content="images/bgDesktop2.jpg" />
-            <meta name="twitter:image:alt" content="Tytan Codes's personal website" />
+            <meta name="twitter:image:alt" content="Sirafiel Codes's personal website" />
             <meta name="twitter:site" content="@aps_codes" />
             <meta name="twitter:creator" content="@aps_codes" />
         </Helmet>
@@ -244,12 +244,12 @@ export default function Home() {
                     <WorkLink to="/works">
                         {worksTitleReveal.map(({...style}, index) => (<a.span style={style} key={index}>{worksTitleList[index]}</a.span>))}
                     </WorkLink>
-                    <TriangleDiv><a href="mailto:hello@tytan.codes">hello@tytan.codes</a></TriangleDiv>
+                    <TriangleDiv><a href="mailto:hello@Sirafiel.codes">hello@Sirafiel.codes</a></TriangleDiv>
                 </WorkAndEmailWrapper>
             </MainAreaWrapper>
             <FooterWrapper>
-                {!mobile ? <SocialIcons style={socialIconsAnim} /> : <SocialIcons style={socialIconsAnim} email="hello@tytan.codes" />}
-                {/* email={'hello@tytan.codes'} */}
+                {!mobile ? <SocialIcons style={socialIconsAnim} /> : <SocialIcons style={socialIconsAnim} email="hello@Sirafiel.codes" />}
+                {/* email={'hello@Sirafiel.codes'} */}
                 <Year style={socialIconsAnim}>20<br/>23</Year>
             </FooterWrapper>
             {!tablet ? <Cursor /> : null}

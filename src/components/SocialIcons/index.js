@@ -10,7 +10,7 @@ export default function SocialIcons({ email, color, pagetype, style }) {
                 <FiAtSign color={color ? `${color}` : null} />
             </a> : null
             }
-            <a href="https://github.com/tytan-codes" target="_blank" rel="noreferrer">
+            <a href="https://github.com/Sirafiel-codes" target="_blank" rel="noreferrer">
                 <FiGithub color={color ? `${color}` : null} />
             </a>
         </SocialIconsContainer>
