@@ -294,7 +294,7 @@ export default function Me() {
 
                 <ScrollPage>
                     <Animator animation={batch(Fade(), StickyIn())}>
-                        <Text2 style={{fontSize: '2rem'}}>If you have any idea of what to learn PLEASE EMAIL ME.</Text2>
+                        <Text2 style={{fontSize: '2rem'}}>If you have any idea of what to learn PLEASE EMAIL ME!</Text2>
                     </Animator>
                 </ScrollPage>
 
